@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home"></item>
+        <item
+
+            android:id="@+id/inbox"
+            android:icon="@drawable/msz"
+            android:title="Inbox"></item>
+        <item
+            android:id="@+id/notification"
+            android:icon="@drawable/trip"
+            android:title="Notification"></item>
+        <item
+            android:id="@+id/favrioute"
+            android:icon="@drawable/hrt"
+            android:title="Favrioute"></item>
+        <item
+            android:id="@+id/postJob"
+            android:icon="@drawable/bulb"
+            android:title="Jobs"></item>
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/icon"
+            android:title="Profile"></item>
+        <item
+            android:id="@+id/leavefeedback"
+            android:icon="@drawable/icn_one"
+            android:title="Feedback"></item>
+        <item
+            android:id="@+id/aboutApp"
+            android:icon="@drawable/about"
+            android:title="About App"></item>
+        <item
+        android:id="@+id/closeApp"
+        android:icon="@drawable/close"
+        android:title="Exit"></item>
+
+    </group>
+
+</menu>
